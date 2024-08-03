@@ -1,0 +1,17 @@
+
+img {
+    width: 310px;
+    height:310px;
+    padding: 5px;
+}
+a {
+    color: blue;
+    text-decoration: none;
+}
+body{
+    background-image: url('https://th.bing.com/th/id/OIP.rXCz8RXHdZ1IF3ibBoA9kAHaEK?rs=1&pid=ImgDetMain');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
